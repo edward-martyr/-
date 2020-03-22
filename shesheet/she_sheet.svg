@@ -1,0 +1,1339 @@
+<svg x="0" y="0" width="638" height="574" viewBox="0 0 638 574" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H638V574H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+text::-moz-selection {
+	color: transparent;
+	background: rgba(0, 106, 173, 0.4);
+}
+text::selection {
+	color: transparent;
+	background: rgba(0, 106, 173, 0.4);
+}
+
+.s1{
+font-size: 18.26px;
+font-family: Minion3-Regular_z;
+fill: TRANSPARENT;
+}
+.s2{
+font-size: 30.44px;
+font-family: TeXMUSIX20-Regular_6;
+fill: TRANSPARENT;
+}
+.s3{
+font-size: 20.55px;
+font-family: Minion3Caption-Bold_11;
+fill: TRANSPARENT;
+}
+.s4{
+font-size: 18.26px;
+font-family: Minion3-SemiboldItalic_15;
+fill: TRANSPARENT;
+}
+.s5{
+font-size: 30.44px;
+font-family: TeXXSLZ20-Regular_b;
+fill: TRANSPARENT;
+}
+.s6{
+font-size: 18.26px;
+font-family: Minion3-Italic_19;
+fill: TRANSPARENT;
+}
+.s7{
+font-size: 30.44px;
+font-family: TeXMUSIXSPX-Regular_e;
+fill: TRANSPARENT;
+}
+
+.g0{
+fill: none;
+stroke: #000000;
+stroke-width: 0.608;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1{
+fill: none;
+stroke: #000000;
+stroke-width: 3.653;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2{
+fill: none;
+stroke: #000000;
+stroke-width: 4.566;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,574
+L638,574
+L638,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<g clip-path="url(#c_1)">
+<path d="M42.3,30.7H635.9M42.3,38.3H635.9M42.3,45.9H635.9M42.3,53.5H635.9M42.3,61.1H635.9M42.6,61.4V30.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f0_2" transform="matrix(12,0,0,12,2.5,52.4)" />
+<use xlink:href="#f0_4" transform="matrix(12,0,0,12,11.5,52.4)" />
+<use xlink:href="#f0_3" transform="matrix(12,0,0,12,21.2,52.4)" />
+<use xlink:href="#f1_c" transform="matrix(19.9,0,0,19.9,42.3,53.5)" />
+</g>
+<text x="2" y="52" dx="0,0,-.1" class="s1">She</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,67.4,30.7)" />
+</g>
+<text x="42" y="53" class="s2">G</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,75.1,42.1)" />
+</g>
+<text x="67" y="30" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,82.7,26.8)" />
+</g>
+<text x="75" y="42" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f2_2" transform="matrix(13.4,0,0,13.4,94.6,44.8)" />
+</g>
+<text x="82" y="26" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f2_3" transform="matrix(13.4,0,0,13.4,94.6,60)" />
+</g>
+<text x="94" y="44" class="s3">2</text>
+<g fill="#000000" >
+<use xlink:href="#f3_3" transform="matrix(12,0,0,12,104.8,80.1)" />
+</g>
+<text x="94" y="59" class="s3">4</text>
+<g fill="#000000" >
+<use xlink:href="#f3_4" transform="matrix(12,0,0,12,119.2,80.1)" />
+</g>
+<text x="104" y="80" dx="0,-.1" class="s4">mp</text>
+<path d="M125.8,57.3V30.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,116.6,57.3)" />
+</g>
+<text x="116" y="57" class="s2">ˇ</text>
+<path d="M156.8,49.7V23.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,147.7,49.7)" />
+</g>
+<text x="147" y="49" class="s2">ˇ</text>
+<path d="M179.1,61.4V30.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f3_2" transform="matrix(12,0,0,12,189.1,83.9)" />
+</g>
+<text x="189" y="83" class="s4">f</text>
+<path d="M193.5,68.7V42.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,193.2,42.1)" />
+</g>
+<text x="193" y="42" class="s2">ˇ</text>
+<path d="M224.6,68.4V42.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,224.3,42.1)" />
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,224.3,42.1)" />
+</g>
+<text x="224" y="42" class="s2">ˇ</text>
+<text x="224" y="42" class="s2">`</text>
+<path d="M251.4,61.1h9.8m-36.9,5.7h36.9" class="g1"/>
+<path d="M260.8,68.4V42.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,260.5,42.1)" />
+</g>
+<text x="260" y="42" class="s2">ˇ</text>
+<path d="M281.6,61.4V30.7m23.2,11.4V15.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,295.7,42.1)" />
+</g>
+<text x="295" y="42" class="s2">ˇ</text>
+<path d="M335.9,49.7V20.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,326.8,49.7)" />
+</g>
+<text x="326" y="49" class="s2">ˇ</text>
+<path d="M367,45.9V25" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,357.8,45.9)" />
+<use xlink:href="#f1_p" transform="matrix(19.9,0,0,19.9,304.5,17.3)" />
+</g>
+<text x="357" y="45" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_p" transform="matrix(19.9,0,0,19.9,349.4,24.1)" />
+</g>
+<text x="304" y="17" class="s2">Ð</text>
+<text x="349" y="24" class="s2">Ð</text>
+<path d="M398.1,57.3V29.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,388.9,57.3)" />
+</g>
+<text x="388" y="57" class="s2">ˇ</text>
+<path d="M420.3,61.4V30.7m23.3,19V23.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,434.4,49.7)" />
+</g>
+<text x="434" y="49" class="s2">ˇ</text>
+<path d="M474.6,57.3V30.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,465.5,57.3)" />
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,474.3,32.6)" />
+</g>
+<text x="465" y="57" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,481.4,33.3)" />
+</g>
+<text x="474" y="32" dx="0,-17.3" class="s2">ÉÉ</text>
+<path d="M505.7,61.1V34" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,496.6,61.1)" />
+</g>
+<text x="496" y="61" class="s2">ˇ</text>
+<path d="M528,61.4V30.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_7" transform="matrix(19.9,0,0,19.9,523.9,63.8)" />
+</g>
+<text x="523" y="63" class="s5">:</text>
+<path d="M551.2,61.1V34.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,542.1,61.1)" />
+</g>
+<text x="542" y="61" class="s2">ˇ</text>
+<path d="M582.3,57.3V30.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,573.2,57.3)" />
+<use xlink:href="#f1_h" transform="matrix(19.9,0,0,19.9,582,32.6)" />
+</g>
+<text x="573" y="57" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_h" transform="matrix(19.9,0,0,19.9,589,31.5)" />
+</g>
+<text x="581" y="32" dx="0,-17.3" class="s2">ŔŔ</text>
+<path d="M613.4,49.7V26.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,604.3,49.7)" />
+</g>
+<text x="604" y="49" class="s2">ˇ</text>
+<path d="M635.6,61.4V30.7M42.3,112.9H635.9M42.3,120.5H635.9M42.3,128.1H635.9M42.3,135.7H635.9M42.3,143.3H635.9m-593.3,.3V112.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_c" transform="matrix(19.9,0,0,19.9,42.3,135.7)" />
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,67.4,112.9)" />
+</g>
+<text x="42" y="135" class="s2">G</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,75.1,124.3)" />
+</g>
+<text x="67" y="112" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,82.7,109.1)" />
+</g>
+<text x="75" y="124" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,97.8,120.5)" />
+</g>
+<text x="82" y="109" class="s2">4</text>
+<text x="97" y="120" class="s2">4</text>
+<path d="M107.2,150.9V120.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_6" transform="matrix(19.9,0,0,19.9,106.9,150.9)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,106.9,120.5)" />
+</g>
+<text x="106" y="150" class="s2">/</text>
+<g fill="#000000" >
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,128.4,116.7)" />
+</g>
+<text x="106" y="120" class="s2">ˇ</text>
+<text x="128" y="116" class="s2">`</text>
+<path d="M128.7,141.4V116.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_5" transform="matrix(19.9,0,0,19.9,128.4,141.4)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,128.4,116.7)" />
+</g>
+<text x="128" y="141" class="s2">-</text>
+<g fill="#000000" >
+<use xlink:href="#f1_b" transform="matrix(19.9,0,0,19.9,166,143.3)" />
+</g>
+<text x="128" y="116" class="s2">ˇ</text>
+<text x="166" y="143" class="s2">A</text>
+<path d="M187.8,150.9V120.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_6" transform="matrix(19.9,0,0,19.9,187.5,150.9)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,187.5,120.5)" />
+</g>
+<text x="187" y="150" class="s2">/</text>
+<g fill="#000000" >
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,209,116.7)" />
+</g>
+<text x="187" y="120" class="s2">ˇ</text>
+<text x="208" y="116" class="s2">`</text>
+<path d="M209.3,141.4V116.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_5" transform="matrix(19.9,0,0,19.9,209,141.4)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,209,116.7)" />
+</g>
+<text x="208" y="141" class="s2">-</text>
+<g fill="#000000" >
+<use xlink:href="#f1_b" transform="matrix(19.9,0,0,19.9,246.6,143.3)" />
+</g>
+<text x="208" y="116" class="s2">ˇ</text>
+<text x="246" y="143" class="s2">A</text>
+<path d="M268.4,143.6V112.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,273.9,120.5)" />
+</g>
+<text x="273" y="120" class="s2">4</text>
+<path d="M283.3,150.9V120.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_6" transform="matrix(19.9,0,0,19.9,283,150.9)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,283,120.5)" />
+</g>
+<text x="283" y="150" class="s2">/</text>
+<text x="283" y="120" class="s2">ˇ</text>
+<path d="M304.8,143V116.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,304.5,116.7)" />
+<use xlink:href="#f4_3" transform="matrix(19.9,0,0,19.9,325.2,114)" />
+</g>
+<text x="304" y="116" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_m" transform="matrix(19.9,0,0,19.9,336.8,134.8)" />
+</g>
+<text x="325" y="114" class="s5">´</text>
+<g fill="#000000" >
+<use xlink:href="#f1_m" transform="matrix(19.9,0,0,19.9,340.4,135.4)" />
+</g>
+<text x="336" y="134" dx="0,-2.4" class="s2">ÍÍ</text>
+<path d="M337.1,147.9V116.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,336.8,116.7)" />
+<use xlink:href="#f1_n" transform="matrix(19.9,0,0,19.9,336.8,140.5)" />
+</g>
+<text x="336" y="116" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_n" transform="matrix(19.9,0,0,19.9,346.7,142)" />
+<use xlink:href="#f1_8" transform="matrix(19.9,0,0,19.9,349.1,124.3)" />
+</g>
+<text x="336" y="140" dx="0,-2.2" class="s2">ÎÎ</text>
+<text x="349" y="124" class="s2">6</text>
+<path d="M358.6,151.1V124.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,358.3,124.3)" />
+</g>
+<text x="358" y="124" class="s2">ˇ</text>
+<path d="M380.1,154.3V128.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,379.8,128.1)" />
+<use xlink:href="#f1_q" transform="matrix(19.9,0,0,19.9,304.5,141.4)" />
+</g>
+<text x="379" y="128" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_q" transform="matrix(19.9,0,0,19.9,315.2,143)" />
+</g>
+<text x="304" y="141" class="s2">Ñ</text>
+<text x="315" y="142" class="s2">Ñ</text>
+<path d="M412.3,159.1V131.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,412,131.9)" />
+</g>
+<text x="412" y="131" class="s2">ˇ</text>
+<path d="M444.6,143.6V112.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_7" transform="matrix(19.9,0,0,19.9,440.2,134.6)" />
+</g>
+<text x="440" y="134" class="s5">:</text>
+<path d="M468.3,131.9V105.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,459.2,131.9)" />
+<use xlink:href="#f1_e" transform="matrix(19.9,0,0,19.9,468,107.2)" />
+</g>
+<text x="459" y="131" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_e" transform="matrix(19.9,0,0,19.9,476.2,106.3)" />
+</g>
+<text x="468" y="107" dx="0,-16.2" class="s2">ĽĽ</text>
+<path d="M500.6,128.1V102.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,491.4,128.1)" />
+</g>
+<text x="491" y="128" class="s2">ˇ</text>
+<path d="M524,150.9V124.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,523.7,124.3)" />
+</g>
+<text x="523" y="124" class="s2">ˇ</text>
+<path d="M556.2,143.6V112.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_5" transform="matrix(19.9,0,0,19.9,551.8,121.6)" />
+</g>
+<text x="551" y="121" class="s5">¨</text>
+<path d="M571.2,150.9V124.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,570.8,124.3)" />
+<use xlink:href="#f1_9" transform="matrix(19.9,0,0,19.9,603.1,143.3)" />
+</g>
+<text x="570" y="124" class="s2">ˇ</text>
+<text x="603" y="143" class="s2">&gt;</text>
+<path d="M635.6,143.6V112.9M42.3,190.5H635.9M42.3,198.1H635.9M42.3,205.7H635.9M42.3,213.3H635.9M42.3,220.9H635.9m-593.3,.3V190.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_c" transform="matrix(19.9,0,0,19.9,42.3,213.3)" />
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,67.4,190.5)" />
+</g>
+<text x="42" y="213" class="s2">G</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,75.1,201.9)" />
+</g>
+<text x="67" y="190" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,82.7,186.7)" />
+</g>
+<text x="75" y="201" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_a" transform="matrix(19.9,0,0,19.9,104.1,220.9)" />
+</g>
+<text x="82" y="186" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f3_3" transform="matrix(12,0,0,12,118.8,247.6)" />
+</g>
+<text x="104" y="220" class="s2">?</text>
+<g fill="#000000" >
+<use xlink:href="#f3_2" transform="matrix(12,0,0,12,133.3,247.6)" />
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,139,201.9)" />
+</g>
+<text x="118" y="247" dx="0,-.1" class="s4">mf</text>
+<g fill="#000000" >
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,142.3,201.4)" />
+</g>
+<text x="138" y="201" dx="0,-2.7" class="s2">ŊŊ</text>
+<path d="M127.9,228.5h13.7m-2.3,0V194.6" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,130.2,228.5)" />
+</g>
+<text x="130" y="228" class="s2">ˇ</text>
+<path d="M156.7,217.1V192" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,147.5,217.1)" />
+</g>
+<text x="147" y="217" class="s2">ˇ</text>
+<path d="M182.7,213.3V188.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,173.6,213.3)" />
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,199.3,192.9)" />
+</g>
+<text x="173" y="213" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,202.6,192.4)" />
+<use xlink:href="#f1_i" transform="matrix(19.9,0,0,19.9,139,196.2)" />
+</g>
+<text x="199" y="192" dx="0,-2.7" class="s2">ŊŊ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_i" transform="matrix(19.9,0,0,19.9,160,193)" />
+</g>
+<text x="138" y="196" class="s2">Ř</text>
+<text x="160" y="193" class="s2">Ř</text>
+<path d="M208.7,209.5V184.2" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,199.6,209.5)" />
+</g>
+<text x="199" y="209" class="s2">ˇ</text>
+<path d="M217.3,221.2V190.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_6" transform="matrix(19.9,0,0,19.9,218.9,212.2)" />
+</g>
+<text x="218" y="212" class="s5">7</text>
+<path d="M238.3,209.5V177.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,229.1,209.5)" />
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,238,184.8)" />
+</g>
+<text x="229" y="209" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,243.4,184.2)" />
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,238,179.1)" />
+</g>
+<text x="237" y="184" dx="0,-6.7" class="s2">ĹĹ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,243.4,178.5)" />
+</g>
+<text x="237" y="179" dx="0,-6.7" class="s2">ĹĹ</text>
+<path d="M255.6,205.7v-30" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,246.5,205.7)" />
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,272.7,201.9)" />
+</g>
+<text x="246" y="205" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,276,201.4)" />
+</g>
+<text x="272" y="201" dx="0,-2.7" class="s2">ŊŊ</text>
+<path d="M261.6,228.5h13.7m-2.3,0V194.6" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,263.8,228.5)" />
+</g>
+<text x="263" y="228" class="s2">ˇ</text>
+<path d="M290.3,217.1V192" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,281.2,217.1)" />
+</g>
+<text x="281" y="217" class="s2">ˇ</text>
+<path d="M316.4,213.3V188.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,307.2,213.3)" />
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,333,192.9)" />
+</g>
+<text x="307" y="213" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,336.3,192.4)" />
+<use xlink:href="#f1_i" transform="matrix(19.9,0,0,19.9,272.7,196.2)" />
+</g>
+<text x="332" y="192" dx="0,-2.7" class="s2">ŊŊ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_i" transform="matrix(19.9,0,0,19.9,293.7,193)" />
+</g>
+<text x="272" y="196" class="s2">Ř</text>
+<text x="293" y="193" class="s2">Ř</text>
+<path d="M342.4,209.5V184.2" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,333.3,209.5)" />
+</g>
+<text x="333" y="209" class="s2">ˇ</text>
+<path d="M350.9,221.2V190.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_6" transform="matrix(19.9,0,0,19.9,352.6,212.2)" />
+</g>
+<text x="352" y="212" class="s5">7</text>
+<path d="M371.9,209.5V177.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,362.8,209.5)" />
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,371.6,184.8)" />
+</g>
+<text x="362" y="209" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,377.1,184.2)" />
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,371.6,179.1)" />
+</g>
+<text x="371" y="184" dx="0,-6.7" class="s2">ĹĹ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,377.1,178.5)" />
+</g>
+<text x="371" y="179" dx="0,-6.7" class="s2">ĹĹ</text>
+<path d="M389.3,205.7v-30" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,380.2,205.7)" />
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,406.3,201.9)" />
+</g>
+<text x="380" y="205" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,409.7,201.4)" />
+</g>
+<text x="406" y="201" dx="0,-2.7" class="s2">ŊŊ</text>
+<path d="M395.2,228.5h13.7m-2.3,0V194.6" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,397.5,228.5)" />
+</g>
+<text x="397" y="228" class="s2">ˇ</text>
+<path d="M424,217.1V192" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,414.9,217.1)" />
+</g>
+<text x="414" y="217" class="s2">ˇ</text>
+<path d="M450,213.3V188.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,440.9,213.3)" />
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,466.6,192.9)" />
+</g>
+<text x="440" y="213" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_g" transform="matrix(19.9,0,0,19.9,470,192.4)" />
+<use xlink:href="#f1_i" transform="matrix(19.9,0,0,19.9,406.3,196.2)" />
+</g>
+<text x="466" y="192" dx="0,-2.7" class="s2">ŊŊ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_i" transform="matrix(19.9,0,0,19.9,427.4,193)" />
+</g>
+<text x="406" y="196" class="s2">Ř</text>
+<text x="427" y="193" class="s2">Ř</text>
+<path d="M476.1,209.5V184.2" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,466.9,209.5)" />
+</g>
+<text x="466" y="209" class="s2">ˇ</text>
+<path d="M484.6,221.2V190.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_6" transform="matrix(19.9,0,0,19.9,486.3,212.2)" />
+</g>
+<text x="486" y="212" class="s5">7</text>
+<path d="M505.6,209.5V177.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,496.5,209.5)" />
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,505.3,184.8)" />
+</g>
+<text x="496" y="209" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,510.8,184.2)" />
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,505.3,179.1)" />
+</g>
+<text x="505" y="184" dx="0,-6.7" class="s2">ĹĹ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_d" transform="matrix(19.9,0,0,19.9,510.8,178.5)" />
+</g>
+<text x="505" y="179" dx="0,-6.7" class="s2">ĹĹ</text>
+<path d="M523,205.7v-30" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,513.8,205.7)" />
+<use xlink:href="#f1_a" transform="matrix(19.9,0,0,19.9,531.2,220.9)" />
+</g>
+<text x="513" y="205" class="s2">ˇ</text>
+<text x="531" y="220" class="s2">?</text>
+<path d="M557.5,228.3V201.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,557.2,201.9)" />
+<use xlink:href="#f5_2" transform="matrix(12,0,0,12,579.6,240)" />
+</g>
+<text x="557" y="201" class="s2">ˇ</text>
+<text x="579" y="239" class="s6">3</text>
+<path d="M583.6,225.7V198.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,583.3,198.1)" />
+<use xlink:href="#f1_f" transform="matrix(19.9,0,0,19.9,557.2,226.6)" />
+</g>
+<text x="583" y="198" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_f" transform="matrix(19.9,0,0,19.9,561.2,226.2)" />
+</g>
+<text x="557" y="226" dx="0,-44.7" class="s2">ŁŁ</text>
+<path d="M609.6,223.1V194.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,609.3,194.3)" />
+</g>
+<text x="609" y="194" class="s2">ˇ</text>
+<path d="M635.6,221.2V190.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_3" transform="matrix(19.9,0,0,19.9,626.1,187.8)" />
+</g>
+<text x="626" y="187" class="s5">´</text>
+<path d="M42.3,276.5H635.9M42.3,284.1H635.9M42.3,291.7H635.9M42.3,299.3H635.9M42.3,306.9H635.9m-593.3,.3V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_c" transform="matrix(19.9,0,0,19.9,42.3,299.3)" />
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,67.4,276.5)" />
+</g>
+<text x="42" y="299" class="s2">G</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,75.1,287.9)" />
+</g>
+<text x="67" y="276" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,82.7,272.7)" />
+</g>
+<text x="75" y="287" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f4_2" transform="matrix(19.9,0,0,19.9,98.8,273.8)" />
+</g>
+<text x="82" y="272" class="s2">4</text>
+<text x="98" y="273" class="s5">`</text>
+<path d="M106.2,306.7V280.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,105.9,280.3)" />
+</g>
+<text x="105" y="280" class="s2">ˇ</text>
+<path d="M136.1,306.7V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,135.8,276.5)" />
+</g>
+<text x="135" y="276" class="s2">ˇ</text>
+<path d="M166,306.7V287.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,165.7,287.9)" />
+</g>
+<text x="165" y="287" class="s2">ˇ</text>
+<path d="M105.9,305h90.3" class="g1"/>
+<path d="M195.9,306.7V280.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,195.6,280.3)" />
+</g>
+<text x="195" y="280" class="s2">ˇ</text>
+<path d="M225.9,307.2V276.5m13.9,41.8V291.7" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,239.5,291.7)" />
+</g>
+<text x="239" y="291" class="s2">ˇ</text>
+<path d="M269.7,314.3V287.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,269.4,287.9)" />
+<use xlink:href="#f1_o" transform="matrix(19.9,0,0,19.9,269.4,312.7)" />
+</g>
+<text x="269" y="287" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_o" transform="matrix(19.9,0,0,19.9,275.6,313.6)" />
+</g>
+<text x="269" y="312" dx="0,-18.2" class="s2">ÏÏ</text>
+<path d="M299.6,318.8V295.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,299.3,295.5)" />
+</g>
+<text x="299" y="295" class="s2">ˇ</text>
+<path d="M329.6,307.2V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f6_2" transform="matrix(19.9,0,0,19.9,239.5,263)" />
+<use xlink:href="#f4_8" transform="matrix(19.9,0,0,19.9,325.8,302)" />
+</g>
+<text x="239" y="262" class="s7">_</text>
+<text x="325" y="301" class="s5">;</text>
+<path d="M352.3,295.5V268.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,343.2,295.5)" />
+<use xlink:href="#f1_9" transform="matrix(19.9,0,0,19.9,373.1,306.9)" />
+</g>
+<text x="343" y="295" class="s2">ˇ</text>
+<text x="373" y="306" class="s2">&gt;</text>
+<path d="M403.3,307.2V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_a" transform="matrix(19.9,0,0,19.9,416.9,306.9)" />
+<use xlink:href="#f3_4" transform="matrix(12,0,0,12,437.6,322.2)" />
+</g>
+<text x="416" y="306" class="s2">?</text>
+<g fill="#000000" >
+<use xlink:href="#f3_4" transform="matrix(12,0,0,12,446.9,322.2)" />
+</g>
+<text x="437" y="322" class="s4">pp</text>
+<path d="M447.2,301.2V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_5" transform="matrix(19.9,0,0,19.9,446.9,301.2)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,446.9,276.5)" />
+</g>
+<text x="446" y="301" class="s2">-</text>
+<text x="446" y="276" class="s2">ˇ</text>
+<path d="M474.5,268.9h13.7m-13.7,-7.6h13.7m-11.1,26.3V261.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,476.8,261.3)" />
+<use xlink:href="#f1_r" transform="matrix(19.9,0,0,19.9,476.8,286)" />
+</g>
+<text x="476" y="261" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_r" transform="matrix(19.9,0,0,19.9,483,287.3)" />
+</g>
+<text x="476" y="286" dx="0,-18.2" class="s2">ÕÕ</text>
+<path d="M507,293.6V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,506.7,276.5)" />
+</g>
+<text x="506" y="276" class="s2">ˇ</text>
+<path d="M536.9,307.2V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_4" transform="matrix(19.9,0,0,19.9,533.2,273.8)" />
+</g>
+<text x="533" y="273" class="s5">˜</text>
+<path d="M550.8,302.9V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,550.5,276.5)" />
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,550.5,272.7)" />
+</g>
+<text x="550" y="276" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_k" transform="matrix(19.9,0,0,19.9,576.3,298.1)" />
+</g>
+<text x="550" y="272" class="s2">`</text>
+<g fill="#000000" >
+<use xlink:href="#f1_k" transform="matrix(19.9,0,0,19.9,580,298.5)" />
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,550.5,301.2)" />
+</g>
+<text x="576" y="298" dx="0,-2.4" class="s2">ÇÇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,561.7,302.4)" />
+</g>
+<text x="550" y="301" dx="0,-13.2" class="s2">ÉÉ</text>
+<path d="M585.8,306.4V280.3" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,585.5,280.3)" />
+</g>
+<text x="585" y="280" class="s2">ˇ</text>
+<path d="M605.7,303.1V276.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,605.4,276.5)" />
+</g>
+<text x="605" y="276" class="s2">ˇ</text>
+<path d="M635.6,307.2V276.5M42.3,354.1H635.9M42.3,361.7H635.9M42.3,369.4H635.9M42.3,377H635.9M42.3,384.6H635.9m-593.3,.3V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_c" transform="matrix(19.9,0,0,19.9,42.3,377)" />
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,67.4,354.1)" />
+</g>
+<text x="42" y="376" class="s2">G</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,75.1,365.5)" />
+</g>
+<text x="67" y="354" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,82.7,350.3)" />
+</g>
+<text x="75" y="365" class="s2">4</text>
+<text x="82" y="350" class="s2">4</text>
+<path d="M107.9,380.5V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,107.6,354.1)" />
+</g>
+<text x="107" y="354" class="s2">ˇ</text>
+<path d="M107.6,378.9h34.6" class="g1"/>
+<path d="M141.9,380.5V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,141.6,354.1)" />
+</g>
+<text x="141" y="354" class="s2">ˇ</text>
+<path d="M175.8,380.5V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,175.5,354.1)" />
+</g>
+<text x="175" y="354" class="s2">ˇ</text>
+<path d="M175.5,378.9H210" class="g1"/>
+<path d="M209.7,380.5V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,209.4,354.1)" />
+</g>
+<text x="209" y="354" class="s2">ˇ</text>
+<path d="M243.7,384.9V354.1m15.6,26.4V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,259,354.1)" />
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,259,350.3)" />
+</g>
+<text x="259" y="354" class="s2">ˇ</text>
+<text x="259" y="350" class="s2">`</text>
+<path d="M298.9,380.5V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,298.6,354.1)" />
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,298.6,350.3)" />
+</g>
+<text x="298" y="354" class="s2">ˇ</text>
+<text x="298" y="350" class="s2">`</text>
+<path d="M259,378.9h79.8" class="g1"/>
+<path d="M338.5,380.5V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,338.2,354.1)" />
+</g>
+<text x="338" y="354" class="s2">ˇ</text>
+<path d="M372.4,384.9V354.1m15.7,26.4V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,387.8,354.1)" />
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,387.8,378.9)" />
+</g>
+<text x="387" y="354" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,398,379.9)" />
+</g>
+<text x="387" y="378" dx="0,-14.2" class="s2">ÉÉ</text>
+<path d="M422,383.9v-26" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,421.7,357.9)" />
+<use xlink:href="#f1_a" transform="matrix(19.9,0,0,19.9,455.7,384.6)" />
+</g>
+<text x="421" y="357" class="s2">ˇ</text>
+<text x="455" y="384" class="s2">?</text>
+<path d="M489.9,378.9V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_5" transform="matrix(19.9,0,0,19.9,489.6,378.9)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,489.6,354.1)" />
+</g>
+<text x="489" y="378" class="s2">-</text>
+<text x="489" y="354" class="s2">ˇ</text>
+<path d="M523.8,384.9V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_5" transform="matrix(19.9,0,0,19.9,519,351.5)" />
+</g>
+<text x="518" y="351" class="s5">¨</text>
+<path d="M539.5,380.5V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,539.2,354.1)" />
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,539.2,350.3)" />
+</g>
+<text x="539" y="354" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_k" transform="matrix(19.9,0,0,19.9,569.7,376.2)" />
+</g>
+<text x="539" y="350" class="s2">`</text>
+<g fill="#000000" >
+<use xlink:href="#f1_k" transform="matrix(19.9,0,0,19.9,573.3,376.6)" />
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,539.2,378.9)" />
+</g>
+<text x="569" y="376" dx="0,-2.4" class="s2">ÇÇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,555,380.4)" />
+</g>
+<text x="539" y="378" class="s2">É</text>
+<text x="555" y="380" class="s2">É</text>
+<path d="M579.1,384.4V357.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,578.8,357.9)" />
+</g>
+<text x="578" y="357" class="s2">ˇ</text>
+<path d="M601.7,380.7V354.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,601.4,354.1)" />
+</g>
+<text x="601" y="354" class="s2">ˇ</text>
+<path d="M635.6,384.9V354.1M42.3,431.8H635.9M42.3,439.4H635.9M42.3,447H635.9M42.3,454.6H635.9M42.3,462.2H635.9m-593.3,.3V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_c" transform="matrix(19.9,0,0,19.9,42.3,454.6)" />
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,67.4,431.8)" />
+</g>
+<text x="42" y="454" class="s2">G</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,75.1,443.2)" />
+</g>
+<text x="67" y="431" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,82.7,427.9)" />
+</g>
+<text x="75" y="443" class="s2">4</text>
+<text x="82" y="427" class="s2">4</text>
+<path d="M107.5,458.1V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,107.2,431.8)" />
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,107.2,456.5)" />
+</g>
+<text x="107" y="431" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,116.4,457.4)" />
+</g>
+<text x="107" y="456" dx="0,-15.1" class="s2">ÉÉ</text>
+<path d="M140.5,461.4V435.6" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,140.2,435.6)" />
+</g>
+<text x="140" y="435" class="s2">ˇ</text>
+<path d="M170.9,424.1h13.7m-11.1,26.4V424.1" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,173.2,424.1)" />
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,173.2,448.9)" />
+</g>
+<text x="173" y="424" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,182.4,449.8)" />
+</g>
+<text x="173" y="448" dx="0,-15.1" class="s2">ÉÉ</text>
+<path d="M206.4,453.8V427.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,206.1,427.9)" />
+</g>
+<text x="206" y="427" class="s2">ˇ</text>
+<path d="M239.4,462.5V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_5" transform="matrix(19.9,0,0,19.9,234.8,425.3)" />
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,254.4,427.9)" />
+</g>
+<text x="234" y="425" class="s5">¨</text>
+<text x="254" y="427" class="s2">`</text>
+<path d="M254.7,454.5V427.9" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,254.4,427.9)" />
+</g>
+<text x="254" y="427" class="s2">ˇ</text>
+<path d="M293.1,456.5V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_5" transform="matrix(19.9,0,0,19.9,292.8,456.5)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,292.8,431.8)" />
+</g>
+<text x="292" y="456" class="s2">-</text>
+<text x="292" y="431" class="s2">ˇ</text>
+<path d="M326.1,462.5V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_a" transform="matrix(19.9,0,0,19.9,341.1,462.2)" />
+</g>
+<text x="341" y="462" class="s2">?</text>
+<path d="M374.3,456.5V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_5" transform="matrix(19.9,0,0,19.9,374,456.5)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,374,431.8)" />
+</g>
+<text x="374" y="456" class="s2">-</text>
+<text x="374" y="431" class="s2">ˇ</text>
+<path d="M404.7,424.1h13.7m-13.7,-7.6h13.7m-11.1,26.4V416.5" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,407,416.5)" />
+<use xlink:href="#f1_r" transform="matrix(19.9,0,0,19.9,407,441.3)" />
+</g>
+<text x="406" y="416" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_r" transform="matrix(19.9,0,0,19.9,416.2,443.1)" />
+</g>
+<text x="406" y="441" class="s2">Õ</text>
+<text x="416" y="443" class="s2">Õ</text>
+<path d="M440.3,449.5V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,440,431.8)" />
+</g>
+<text x="439" y="431" class="s2">ˇ</text>
+<path d="M473.2,462.5V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_9" transform="matrix(19.9,0,0,19.9,488.2,462.2)" />
+</g>
+<text x="488" y="462" class="s2">&gt;</text>
+<path d="M521.5,458.4V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,521.2,431.8)" />
+</g>
+<text x="521" y="431" class="s2">ˇ</text>
+<path d="M554.4,462.5V431.8m15.3,26.6V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,569.4,431.8)" />
+</g>
+<text x="569" y="431" class="s2">ˇ</text>
+<path d="M602.7,458.4V431.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,602.4,431.8)" />
+</g>
+<text x="602" y="431" class="s2">ˇ</text>
+<path d="M635.6,462.5V431.8M42.3,509.4H635.9M42.3,517H635.9M42.3,524.6H635.9M42.3,532.2H635.9M42.3,539.8H635.9m-593.3,.3V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_c" transform="matrix(19.9,0,0,19.9,42.3,532.2)" />
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,67.4,509.4)" />
+</g>
+<text x="42" y="532" class="s2">G</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,75.1,520.8)" />
+</g>
+<text x="67" y="509" class="s2">4</text>
+<g fill="#000000" >
+<use xlink:href="#f1_7" transform="matrix(19.9,0,0,19.9,82.7,505.6)" />
+</g>
+<text x="75" y="520" class="s2">4</text>
+<text x="82" y="505" class="s2">4</text>
+<path d="M105.2,535.7V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,104.9,509.4)" />
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,104.9,505.6)" />
+</g>
+<text x="104" y="509" class="s2">ˇ</text>
+<text x="104" y="505" class="s2">`</text>
+<path d="M137.6,535.7V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,137.3,509.4)" />
+<use xlink:href="#f1_2" transform="matrix(19.9,0,0,19.9,137.3,505.6)" />
+</g>
+<text x="137" y="509" class="s2">ˇ</text>
+<text x="137" y="505" class="s2">`</text>
+<path d="M104.9,534.1h65.4" class="g1"/>
+<path d="M170,535.7V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,169.7,509.4)" />
+</g>
+<text x="169" y="509" class="s2">ˇ</text>
+<path d="M197.7,540.1V509.4m13,26.3V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,210.4,509.4)" />
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,210.4,534.1)" />
+</g>
+<text x="210" y="509" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,214.4,534.5)" />
+</g>
+<text x="210" y="534" dx="0,-20.3" class="s2">ÉÉ</text>
+<path d="M238.4,538.5V513.2" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,238.1,513.2)" />
+<use xlink:href="#f1_a" transform="matrix(19.9,0,0,19.9,265.9,539.8)" />
+</g>
+<text x="238" y="513" class="s2">ˇ</text>
+<text x="265" y="539" class="s2">?</text>
+<path d="M293.9,534.1V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_5" transform="matrix(19.9,0,0,19.9,293.6,534.1)" />
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,293.6,509.4)" />
+</g>
+<text x="293" y="534" class="s2">-</text>
+<text x="293" y="509" class="s2">ˇ</text>
+<path d="M321.7,540.1V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_4" transform="matrix(19.9,0,0,19.9,318.5,506.7)" />
+</g>
+<text x="318" y="506" class="s5">˜</text>
+<path d="M334.6,535.7V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,334.3,509.4)" />
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,334.3,534.1)" />
+</g>
+<text x="334" y="509" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_l" transform="matrix(19.9,0,0,19.9,338.3,534.5)" />
+</g>
+<text x="334" y="534" dx="0,-20.3" class="s2">ÉÉ</text>
+<path d="M362.4,538.5V513.2" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,362.1,513.2)" />
+</g>
+<text x="362" y="513" class="s2">ˇ</text>
+<path d="M390.1,535.7V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,389.8,509.4)" />
+</g>
+<text x="389" y="509" class="s2">ˇ</text>
+<path d="M389.8,534.1h28.4" class="g1"/>
+<path d="M417.9,535.7V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,417.6,509.4)" />
+</g>
+<text x="417" y="509" class="s2">ˇ</text>
+<path d="M445.6,540.1V509.4m13,26.3V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,458.3,509.4)" />
+<use xlink:href="#f1_h" transform="matrix(19.9,0,0,19.9,458.3,534.1)" />
+</g>
+<text x="458" y="509" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_h" transform="matrix(19.9,0,0,19.9,462.3,533.5)" />
+</g>
+<text x="458" y="534" dx="0,-20.3" class="s2">ŔŔ</text>
+<path d="M483.7,501.8h13.7m-11.1,29.8V501.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,486,501.8)" />
+</g>
+<text x="486" y="501" class="s2">ˇ</text>
+<path d="M514.1,547.2V520.8" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,513.8,520.8)" />
+<use xlink:href="#f1_j" transform="matrix(19.9,0,0,19.9,513.8,545.5)" />
+</g>
+<text x="513" y="520" class="s2">ˇ</text>
+<g fill="#000000" >
+<use xlink:href="#f1_j" transform="matrix(19.9,0,0,19.9,517.8,544.7)" />
+</g>
+<text x="513" y="545" dx="0,-20.3" class="s2">ŢŢ</text>
+<path d="M541.8,541.6v-36" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_3" transform="matrix(19.9,0,0,19.9,541.5,505.6)" />
+</g>
+<text x="541" y="505" class="s2">ˇ</text>
+<path d="M569.6,540.1V509.4" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f4_4" transform="matrix(19.9,0,0,19.9,566.4,502.9)" />
+</g>
+<text x="566" y="502" class="s5">˜</text>
+<path d="M582.5,532.2V505.6" class="g0"/>
+<g fill="#000000" >
+<use xlink:href="#f1_4" transform="matrix(19.9,0,0,19.9,582.2,505.6)" />
+</g>
+<text x="582" y="505" class="s2">˘</text>
+<path d="M628.8,540.1V509.4" class="g0"/>
+<path d="M633.7,540.1V509.4" class="g2"/>
+
+</g>
+<defs>
+<path d="M344,-22C252,-22,173,3,112,28C99,69,81,177,72,254l44,10C145,163,212,31,371,31c113,0,179,79,179,178c0,118,-64,168,-196,240C199,535,104,608,104,752c0,136,114,262,313,262c86,0,167,-22,199,-29c6,-55,13,-116,24,-212l-44,-9C570,865,527,964,383,964C266,964,223,877,223,796C223,689,290,636,416,570C591,478,677,408,677,260C677,99,539,-22,344,-22Z"
+id="f0_2"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M29,0V40c89,7,107,17,107,119V898c0,84,-6,103,-105,112v37c81,9,171,30,224,51c0,-56,-1,-125,-1,-189V574c55,55,137,112,221,112c124,0,209,-78,209,-260V156C684,57,697,49,784,40V0H466V40c89,10,101,18,101,119V409c0,126,-46,190,-148,190c-1,0,-2,0,-3,0C359,599,298,570,254,521V159C254,60,266,49,358,40V0Z"
+id="f0_4"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M183,440c87,0,182,0,266,5c25,0,34,7,34,30c1,80,-52,154,-139,154C273,629,205,565,183,440ZM354,-17C170,-17,57,134,57,309c0,104,36,198,99,265c62,72,147,112,226,112C513,686,613,571,613,452c-2,-29,-6,-43,-28,-49C555,397,361,383,176,377C171,168,298,84,406,84c62,0,120,26,176,78l23,-32C509,9,403,-17,354,-17Z"
+id="f0_3"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M779,-312c118,35,208,174,208,293C987,124,883,244,736,244c-12,0,-26,-1,-38,-3c31,-183,66,-368,81,-553ZM646,-338c16,0,90,4,97,17c1,1,1,3,1,6c0,44,-12,93,-18,137C712,-86,698,3,681,95c-7,44,-19,91,-24,136C562,211,490,95,490,3c0,-65,25,-98,63,-149C475,-124,440,-11,440,60c0,90,43,178,110,238c21,18,57,46,84,53c-17,95,-41,193,-49,288C565,614,548,585,532,558C463,449,296,200,275,84C272,66,270,47,270,29c0,-204,173,-367,376,-367ZM599,940c101,116,260,287,260,449c0,52,-26,166,-94,166c-19,0,-35,-13,-47,-27C637,1438,585,1351,585,1225c0,-96,9,-191,14,-285ZM539,-980c-159,0,-269,115,-269,272c0,80,66,138,143,138c80,0,143,-65,143,-144c0,-78,-64,-143,-140,-143c-8,0,-15,1,-23,2c45,-45,96,-70,162,-70c140,0,215,98,215,231c0,107,-14,211,-18,318c-17,-2,-35,-3,-54,-3c-287,0,-521,233,-521,523c0,74,17,149,46,218c70,162,188,335,293,475c10,11,34,41,34,54c0,18,-5,38,-6,56c-8,89,-14,177,-14,266c0,173,31,351,148,484c16,17,34,42,58,42c17,0,29,-10,39,-22c15,-20,97,-218,107,-249c13,-43,19,-87,19,-133C901,1056,626,727,626,694c0,-28,10,-61,14,-91c11,-77,26,-157,37,-235c32,12,67,15,102,15c202,0,352,-163,352,-362c0,-174,-124,-326,-289,-378c-19,-6,-37,-12,-55,-13c0,-38,6,-78,9,-116c6,-71,8,-141,8,-211c0,-164,-94,-283,-265,-283Z"
+id="f1_c"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M110,-121c18,6,130,46,144,59c1,5,3,13,3,17V125C241,119,124,78,113,66c-1,-5,-3,-13,-3,-17V-121ZM81,-552v275L0,-309v131c0,32,81,25,81,60V57L0,26V154c0,3,3,11,3,14c23,14,52,23,78,32V483c0,18,15,21,29,24V212c49,20,98,39,147,57c0,52,-9,226,3,275l24,12c8,-90,2,-185,2,-275l81,32V182c0,-32,-81,-25,-81,-60V-52l81,30V-150c0,-3,-3,-11,-3,-14c-23,-14,-52,-23,-78,-32V-479c0,-18,-16,-21,-29,-24v295c-49,-20,-98,-39,-147,-57c0,-49,9,-229,-3,-275L81,-552Z"
+id="f1_7"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M70,0V52c80,75,168,162,249,247C452,440,495,530,495,646c0,104,-55,173,-156,173C246,819,182,759,124,681L66,729l99,142c60,64,150,99,248,99C574,970,707,862,707,686C707,571,662,484,492,333C468,312,335,193,313,173H550c96,0,107,6,168,114l67,-21C758,167,733,64,717,0Z"
+id="f2_2"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M449,364V746C376,652,246,474,170,364ZM321,0V72c122,9,128,21,128,113v76H35v78C197,552,391,798,523,961H657V364H810V261H657V182C657,90,665,83,785,72V0Z"
+id="f2_3"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M76,-17L67,-5c38,156,81,333,119,505c11,48,7,62,-6,62c-17,0,-61,-32,-94,-65L66,539c85,97,162,152,224,152c51,0,72,-60,42,-196L315,423C428,579,561,691,660,691c50,0,99,-33,57,-230L707,419c115,160,260,272,353,272c54,0,106,-26,57,-228c-20,-89,-48,-205,-67,-293c-10,-40,-8,-57,3,-57c13,0,56,21,105,75l23,-43C1091,32,985,-17,932,-17c-44,0,-72,32,-38,179c24,110,49,205,72,302c19,80,10,104,-14,104C906,568,801,481,723,351C691,299,680,263,668,212C652,148,636,78,625,14C568,8,515,-5,472,-17L461,-5c37,153,74,298,109,462c14,70,17,111,-17,111C504,568,403,478,325,350C295,299,284,260,272,211C257,148,240,76,228,14C177,8,118,-5,76,-17Z"
+id="f3_3"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M337,50c0,0,1,0,2,0c93,0,223,210,225,405c0,129,-63,159,-139,159c-26,0,-45,-3,-67,-9C327,452,287,254,257,99C272,76,307,50,337,50ZM-103,-373l9,46c102,16,111,27,132,126C93,52,145,315,197,565C151,550,112,530,76,512L64,559c48,29,99,54,148,75l16,64c33,37,105,83,155,106l16,-13L371,674c48,12,95,17,139,17c162,0,225,-80,225,-214C735,376,692,254,605,157C530,75,416,5,315,-17c-26,0,-52,3,-83,13L194,-204c-17,-78,-11,-93,69,-101l41,-4l-9,-46l-398,-18Z"
+id="f3_4"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M180,-185C95,-185,-7,-140,-7,-40c0,141,178,229,302,229c85,0,186,-45,186,-145C481,-95,303,-185,180,-185Z"
+id="f1_3"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M-118,-382c-58,0,-104,33,-103,71c0,34,28,77,54,95c6,5,11,7,16,7c5,0,9,-2,13,-5c38,-34,82,-63,115,-63c72,0,86,104,131,373c36,210,60,346,86,507H72l-5,17l45,52h96c27,122,65,214,139,289c81,82,168,121,235,121c70,0,109,-31,109,-66c0,-29,-36,-78,-57,-92c-6,-3,-12,-5,-18,-5c-6,0,-12,3,-19,10c-39,46,-78,70,-107,70C446,999,413,964,367,672H530L500,611c-26,-1,-110,-8,-142,-8C332,457,313,339,277,147C225,-114,150,-208,52,-295c-65,-63,-132,-87,-170,-87Z"
+id="f3_2"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M686,-62c-34,0,-63,32,-63,65c0,37,29,63,66,63c34,0,63,-32,63,-66c0,-36,-29,-62,-66,-62Z"
+id="f1_2"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M2444,-456L0,-89V93L2444,-272V-456Z"
+id="f1_p"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M1222,-211L0,-89V93L1222,-28V-211Z"
+id="f1_l"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M-4,-225c-282,0,-542,58,-802,165c-38,15,-82,27,-110,60c300,-77,602,-152,914,-152c314,0,618,75,920,152C892,-30,854,-42,817,-57C556,-166,278,-225,-4,-225Z"
+id="f4_7"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-89V93L1222,277V93L0,-89Z"
+id="f1_h"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-91V150c0,53,304,94,383,182c39,42,33,82,33,134c0,38,3,75,6,113h-2C377,492,269,416,193,358C125,306,63,241,0,194V435c0,54,304,95,383,182c39,43,33,83,33,135c0,38,3,75,6,113h-2C374,775,267,703,189,642C124,590,66,530,0,480V721c0,20,17,23,32,31c128,62,384,71,384,252c0,162,-69,304,-165,431C373,1344,454,1146,454,999c0,-29,-11,-58,-11,-85c0,-14,3,-29,5,-43c4,-54,6,-107,6,-161c0,-29,-11,-58,-11,-82c0,-21,5,-43,6,-64c3,-46,6,-93,6,-139C455,249,290,148,167,52C108,6,58,-45,0,-91Z"
+id="f1_6"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-92L-1,272c0,20,13,20,30,24c21,5,43,16,63,23c152,61,324,168,324,353c0,126,-63,301,-165,378v1C379,981,454,810,454,668C454,463,278,301,162,148C104,72,49,-8,2,-92Z"
+id="f1_5"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M223,-20c-15,0,-24,10,-24,25c0,35,13,79,19,116c17,99,36,197,52,296c10,49,22,99,26,148C238,521,189,495,115,495C44,495,-52,519,-52,607c0,48,35,93,84,93c54,0,102,-45,102,-98c0,-21,-6,-43,-18,-60c70,0,165,51,196,115c3,6,50,270,52,290C306,903,257,877,182,877C112,877,14,901,14,988c0,49,35,94,85,94c54,0,103,-45,103,-98c0,-21,-6,-43,-19,-60c69,0,167,51,196,115c4,12,50,266,52,289c-58,-43,-107,-71,-180,-71c-71,0,-170,26,-170,112c0,49,35,96,87,96c52,0,101,-46,101,-99c0,-22,-8,-43,-20,-61c148,0,193,133,223,133c14,0,21,-14,21,-26c0,-26,-9,-58,-13,-84L428,1040C379,768,335,495,284,223C272,159,261,95,251,31c-3,-17,-5,-51,-28,-51Z"
+id="f1_b"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M-457,-7v0c59,126,333,196,462,196c105,0,209,-26,304,-74C362,87,432,47,460,-7C309,60,148,110,-16,110C-195,110,-300,61,-457,-7Z"
+id="f4_3"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M306,-135L0,-89V93L306,47V-135Z"
+id="f1_m"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M611,-181L0,-89V93L611,2V-181Z"
+id="f1_n"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M87,-137c41,22,154,68,190,98c1,5,3,12,3,17V141C246,124,118,67,90,43C89,38,87,31,87,26V-137ZM280,-577v392L60,-294V555c0,18,13,19,27,26V189L307,298V-551c0,-18,-14,-19,-27,-26Z"
+id="f1_8"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M4889,-822L0,-89V93L4889,-639V-822Z"
+id="f1_q"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-89V93L1222,215V32L0,-89Z"
+id="f1_e"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M-916,-7c28,33,72,45,110,60c260,107,520,165,802,165C278,218,556,159,817,50C854,35,892,23,918,-7C616,70,310,145,-2,145C-314,145,-616,70,-916,-7Z"
+id="f4_5"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M229,304C115,304,26,396,26,510c0,100,72,193,176,193c32,0,62,-11,90,-26C267,706,70,906,70,917c0,7,17,21,22,27c47,55,111,187,111,260c0,14,-85,111,-102,131v2c6,7,24,26,35,29c24,-22,44,-49,64,-73c60,-72,121,-144,180,-216C324,1021,246,891,246,807C246,781,373,677,374,655c-4,-7,-21,-30,-32,-30c-17,0,-35,11,-53,11C214,636,153,570,153,497c0,-78,67,-149,145,-149c14,0,27,2,40,5C309,313,278,304,229,304Z"
+id="f1_9"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M222,361c-13,0,-23,10,-23,24c0,28,172,464,195,544C348,895,290,877,234,877C163,877,70,903,70,988c0,49,34,94,84,94c54,0,103,-45,103,-98c0,-21,-6,-43,-19,-60c136,3,200,132,220,132c2,0,5,-2,8,-2c8,-6,15,-12,15,-23C481,1014,303,535,287,493C280,471,248,370,231,362c-3,-1,-6,-1,-9,-1Z"
+id="f1_a"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-89V93l306,46V-43L0,-89Z"
+id="f1_g"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-89V93L2444,460V277L0,-89Z"
+id="f1_i"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M5,-196c-129,0,-403,70,-462,196c149,-66,310,-117,474,-117c179,0,284,49,443,117C432,-54,362,-94,309,-121C214,-170,110,-196,5,-196Z"
+id="f4_6"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-89V93l611,61V-28L0,-89Z"
+id="f1_d"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M96,-248c-85,0,-144,43,-145,84c0,27,29,72,52,72c18,0,28,-9,52,-29c31,-23,70,-51,128,-51c127,0,199,120,199,236c0,116,-67,164,-156,164c-27,0,-58,-6,-84,-17l-11,43c132,44,268,113,268,239c0,77,-49,112,-110,112C214,605,159,548,124,504L93,535l81,93c44,41,104,66,165,66c95,0,176,-63,176,-171C515,419,429,362,345,310v-3C432,284,510,220,510,112C512,-111,232,-248,96,-248Z"
+id="f5_2"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-89V93L2444,338V154L0,-89Z"
+id="f1_f"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M-306,-7c35,134,176,195,305,195C127,188,270,127,307,-7C214,58,107,110,-8,110C-130,110,-210,61,-306,-7Z"
+id="f4_2"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M1222,-272L0,-89V93L1222,-89V-272Z"
+id="f1_o"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M5474,-221c-64,0,-128,11,-194,11c-249,0,-498,28,-747,28c-66,0,-131,6,-197,9c-122,6,-245,9,-367,14c-727,24,-1453,53,-2180,82c-176,8,-353,12,-527,17l-32,1c-242,7,-484,16,-726,28C351,-23,197,-13,44,-13c-1,0,-3,0,-6,0C23,-13,-8,-12,-8,5c0,16,28,18,50,18c9,0,17,0,22,0c80,0,159,9,239,9c67,0,134,6,201,9c121,6,242,9,364,14c151,6,302,14,454,14c35,0,73,3,110,4c119,6,238,10,357,14c727,29,1453,58,2180,83c122,4,245,7,367,13c66,3,131,10,197,10c249,0,498,27,747,27c66,0,130,11,194,11c8,0,37,-2,37,-16c0,-20,-34,-23,-62,-23c-14,0,-27,1,-35,1c-111,0,-221,-7,-331,-14c-67,-5,-135,-3,-202,-5c-122,-3,-244,-7,-366,-14C3910,131,3303,118,2698,92C2593,87,2487,78,2382,78C2267,78,2154,69,2041,64C1734,50,1427,46,1120,32C909,23,698,9,486,9V0c212,0,423,-13,634,-22c307,-14,614,-18,921,-32c113,-5,226,-14,341,-14c105,0,211,-9,316,-14c605,-25,1212,-39,1817,-68c122,-6,244,-11,366,-14c67,-2,135,0,202,-5c110,-7,220,-13,331,-13c8,0,21,1,35,1c28,0,62,-4,62,-24c0,-14,-29,-16,-37,-16Z"
+id="f6_2"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M8,-254c-352,0,-644,66,-970,195c-30,13,-91,28,-105,59c115,-30,228,-68,344,-95c237,-57,481,-84,725,-84c226,0,452,24,673,72c133,29,263,73,394,107c-13,-30,-62,-40,-91,-52C646,-187,367,-254,8,-254Z"
+id="f4_8"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M1222,-334L0,-89V93L1222,-150V-334Z"
+id="f1_r"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M-764,-7c16,25,45,35,73,47c224,99,441,149,687,149C235,189,464,139,684,44C715,32,749,21,767,-7C507,52,248,112,-19,112C-274,112,-518,47,-764,-7Z"
+id="f4_4"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M306,-120L0,-89V93L306,63V-120Z"
+id="f1_k"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M0,-89V93L1222,338V154L0,-89Z"
+id="f1_j"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M115,-124c78,0,320,78,320,171c0,52,-44,77,-90,77C269,124,26,47,26,-45c0,-52,41,-79,89,-79Zm76,-74C87,-198,-7,-144,-7,-30c0,137,155,230,279,230C373,200,469,131,469,24C469,-114,315,-198,191,-198Z"
+id="f1_4"
+transform="scale(0.001,-0.001)"/>
+
+
+</defs>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Minion3-Italic_19;
+	src: url("Minion3-Italic_19.woff") format("woff");
+}
+
+@font-face {
+	font-family: Minion3-Regular_z;
+	src: url("Minion3-Regular_z.woff") format("woff");
+}
+
+@font-face {
+	font-family: Minion3-SemiboldItalic_15;
+	src: url("Minion3-SemiboldItalic_15.woff") format("woff");
+}
+
+@font-face {
+	font-family: Minion3Caption-Bold_11;
+	src: url("Minion3Caption-Bold_11.woff") format("woff");
+}
+
+@font-face {
+	font-family: TeXMUSIX20-Regular_6;
+	src: url("TeXMUSIX20-Regular_6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TeXMUSIXSPX-Regular_e;
+	src: url("TeXMUSIXSPX-Regular_e.woff") format("woff");
+}
+
+@font-face {
+	font-family: TeXXSLZ20-Regular_b;
+	src: url("TeXXSLZ20-Regular_b.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
