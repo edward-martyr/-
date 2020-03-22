@@ -652,7 +652,12 @@ h-word {
 }
 @font-face {
   font-family: "Calibri";
-  src: local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica), ;
+  src: url(NotoSans-subset.woff2), url(NotoSans-subset.zopfli.woff), url(NotoSans-subset.ttf), local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica);
+}
+@font-face {
+  font-family: "Calibri";
+  src: url(NotoSansIt-subset.woff2), url(NotoSansIt-subset.zopfli.woff), url(NotoSansIt-subset.ttf), local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica);
+  font-style: italic, oblique;
 }
 @font-face {
   font-family: "Calibri";
@@ -1860,7 +1865,7 @@ p.poem-like,
     margin-left: 1em;
   }
 }
-/* article blockquote {
+article blockquote {
   margin-right: 0;
 }
 @media only screen and (max-width: 480px) {
@@ -1884,7 +1889,7 @@ article blockquote blockquote {
     margin-left: 1em;
     margin-right: 1em;
   }
-} */
+}
 h-hws,
 h-hws[hidden] {
   display: inline;
