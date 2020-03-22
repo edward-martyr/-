@@ -657,7 +657,12 @@ h-word {
 @font-face {
   font-family: "Calibri";
   src: url(NotoSansIt-subset.woff2), url(NotoSansIt-subset.zopfli.woff), url(NotoSansIt-subset.ttf), local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica);
-  font-style: italic, oblique;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Calibri";
+  src: url(NotoSansIt-subset.woff2), url(NotoSansIt-subset.zopfli.woff), url(NotoSansIt-subset.ttf), local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica);
+  font-style: oblique;
 }
 @font-face {
   font-family: "Calibri";
