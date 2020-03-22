@@ -651,21 +651,21 @@ h-word {
   text-indent: 0;
 }
 @font-face {
-  font-family: "Calibri";
+  font-family: "Latin Sans";
   src: url(NotoSans-subset.woff2), url(NotoSans-subset.zopfli.woff), url(NotoSans-subset.ttf), local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica);
 }
 @font-face {
-  font-family: "Calibri";
+  font-family: "Latin Sans";
   src: url(NotoSansIt-subset.woff2), url(NotoSansIt-subset.zopfli.woff), url(NotoSansIt-subset.ttf), local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica);
   font-style: italic;
 }
 @font-face {
-  font-family: "Calibri";
+  font-family: "Latin Sans";
   src: url(NotoSansIt-subset.woff2), url(NotoSansIt-subset.zopfli.woff), url(NotoSansIt-subset.ttf), local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica);
   font-style: oblique;
 }
 @font-face {
-  font-family: "Calibri";
+  font-family: "Latin Sans";
   font-variant-east-asian: traditional;
   font-variant-east-asian: full-width;
   -moz-font-feature-settings: "fwid";
@@ -1387,7 +1387,7 @@ article strong:not(:lang(zh)):not(:lang(ja)),
 article strong *:lang(zh-Latn),
 article strong *:lang(ja-Latn),
 article strong *:not(:lang(zh)):not(:lang(ja)) {
-  font-family: "Calibri", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
+  font-family: "Latin Sans", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
   font-weight: 300;
 }
 html:lang(zh),
@@ -1398,7 +1398,7 @@ html:lang(zh-Hant),
 [lang="zh-HK"],
 article strong:lang(zh),
 article strong:lang(zh-Hant) {
-  font-family: "Biaodian Pro Sans CNS", "Calibri", "Zhuyin Heiti", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
+  font-family: "Biaodian Pro Sans CNS", "Latin Sans", "Zhuyin Heiti", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
   font-weight: 300;
 }
 html:lang(zh).no-unicoderange,
@@ -1409,7 +1409,7 @@ html:lang(zh-Hant).no-unicoderange,
 .no-unicoderange [lang="zh-HK"],
 .no-unicoderange article strong:lang(zh),
 .no-unicoderange article strong:lang(zh-Hant) {
-  font-family: "Calibri", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
+  font-family: "Latin Sans", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
   font-weight: 300;
 }
 html:lang(zh-Hans),
@@ -1418,7 +1418,7 @@ html:lang(zh-CN),
 [lang="zh-CN"],
 article strong:lang(zh-Hans),
 article strong:lang(zh-CN) {
-  font-family: "Biaodian Pro Sans GB", "Calibri", "Han Heiti GB", sans-serif;
+  font-family: "Biaodian Pro Sans GB", "Latin Sans", "Han Heiti GB", sans-serif;
 }
 html:lang(zh-Hans).no-unicoderange,
 html:lang(zh-CN).no-unicoderange,
@@ -1426,17 +1426,17 @@ html:lang(zh-CN).no-unicoderange,
 .no-unicoderange [lang="zh-CN"],
 .no-unicoderange article strong:lang(zh-Hans),
 .no-unicoderange article strong:lang(zh-CN) {
-  font-family: "Calibri", "Han Heiti GB", sans-serif;
+  font-family: "Latin Sans", "Han Heiti GB", sans-serif;
 }
 html:lang(ja),
 [lang^="ja"],
 article strong:lang(ja) {
-  font-family: "Yakumono Sans", "Calibri", sans-serif;
+  font-family: "Yakumono Sans", "Latin Sans", sans-serif;
 }
 html:lang(ja).no-unicoderange,
 .no-unicoderange [lang^="ja"],
 .no-unicoderange article strong:lang(ja) {
-  font-family: "Calibri", sans-serif;
+  font-family: "Latin Sans", sans-serif;
 }
 /* article blockquote i:lang(zh-Latn),
 article blockquote var:lang(zh-Latn),
@@ -1450,45 +1450,45 @@ article blockquote i *:lang(ja-Latn),
 article blockquote var *:lang(ja-Latn),
 article blockquote i *:not(:lang(zh)):not(:lang(ja)),
 article blockquote var *:not(:lang(zh)):not(:lang(ja)) {
-  font-family: "Latin Italic Sans", "Calibri", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
+  font-family: "Latin Italic Sans", "Latin Sans", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
 }
 article blockquote i:lang(zh),
 article blockquote var:lang(zh),
 article blockquote i:lang(zh-Hant),
 article blockquote var:lang(zh-Hant) {
-  font-family: "Biaodian Pro Sans CNS", "Latin Italic Sans", "Calibri", "Zhuyin Heiti", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
+  font-family: "Biaodian Pro Sans CNS", "Latin Italic Sans", "Latin Sans", "Zhuyin Heiti", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
 }
 .no-unicoderange article blockquote i:lang(zh),
 .no-unicoderange article blockquote var:lang(zh),
 .no-unicoderange article blockquote i:lang(zh-Hant),
 .no-unicoderange article blockquote var:lang(zh-Hant) {
-  font-family: "Latin Italic Sans", "Calibri", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
+  font-family: "Latin Italic Sans", "Latin Sans", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
 }
 .no-unicoderange article blockquote i:lang(zh),
 .no-unicoderange article blockquote var:lang(zh),
 .no-unicoderange article blockquote i:lang(zh-Hant),
 .no-unicoderange article blockquote var:lang(zh-Hant) {
-  font-family: "Latin Italic Sans", "Calibri", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
+  font-family: "Latin Italic Sans", "Latin Sans", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
 }
 article blockquote i:lang(zh-Hans),
 article blockquote var:lang(zh-Hans),
 article blockquote i:lang(zh-CN),
 article blockquote var:lang(zh-CN) {
-  font-family: "Biaodian Pro Sans GB", "Latin Italic Sans", "Calibri", "Han Heiti GB", sans-serif;
+  font-family: "Biaodian Pro Sans GB", "Latin Italic Sans", "Latin Sans", "Han Heiti GB", sans-serif;
 }
 .no-unicoderange article blockquote i:lang(zh-Hans),
 .no-unicoderange article blockquote var:lang(zh-Hans),
 .no-unicoderange article blockquote i:lang(zh-CN),
 .no-unicoderange article blockquote var:lang(zh-CN) {
-  font-family: "Latin Italic Sans", "Calibri", "Han Heiti GB", sans-serif;
+  font-family: "Latin Italic Sans", "Latin Sans", "Han Heiti GB", sans-serif;
 }
 article blockquote i:lang(ja),
 article blockquote var:lang(ja) {
-  font-family: "Yakumono Sans", "Latin Italic Sans", "Calibri", sans-serif;
+  font-family: "Yakumono Sans", "Latin Italic Sans", "Latin Sans", sans-serif;
 }
 .no-unicoderange article blockquote i:lang(ja),
 .no-unicoderange article blockquote var:lang(ja) {
-  font-family: "Latin Italic Sans", "Calibri", sans-serif;
+  font-family: "Latin Italic Sans", "Latin Sans", sans-serif;
 }
 article figure blockquote:lang(zh-Latn),
 article figure blockquote:lang(ja-Latn),
@@ -1746,7 +1746,7 @@ ruby.romanization rt,
 h-ruby.romanization rt,
 ruby [annotation] rt,
 h-ruby [annotation] rt {
-  font-family: "Romanization Sans", "Calibri", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
+  font-family: "Romanization Sans", "Latin Sans", "Han Trad", "Genne Gothic Light", "GenYoGothic TW TTF", "Noto Sans CJK KR Light", "Source Han Sans KR Light", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Hiragino Sans W2", "Lantinghei TC Extralight", "Yu Gothic", "Meiryo", "MS Gothic", "MS PGothic", "Microsoft Jhenghei", sans-serif;
 }
 .no-kaiti i,
 .no-kaiti var {
