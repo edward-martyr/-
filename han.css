@@ -658,9 +658,9 @@ h-word {
   -webkit-font-feature-settings: "fwid";
   font-feature-settings: "fwid";
   font-language-overide: "CJK";
-  src: url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@latest/CL.woff2), url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@latest/CL.woff), url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@latest/CL.ttf), local("Hiragino Kaku Gothic ProN"), local("Hiragino Kaku Gothic Pro"), local("Hiragino Sans W2"), local("Yu Gothic"), local(Meiryo), local("MS Gothic"), local(MS PGothic), local("Lantinghei TC Extralight"), local("Microsoft Jhenghei"), local("Noto Sans CJK KR Light"), local("Source Han Sans KR Light");
+  src: url(/CL.woff2), url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@1.0.3/CL.woff), url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@1.0.3/CL.ttf), local("Hiragino Kaku Gothic ProN"), local("Hiragino Kaku Gothic Pro"), local("Hiragino Sans W2"), local("Yu Gothic"), local(Meiryo), local("MS Gothic"), local(MS PGothic), local("Lantinghei TC Extralight"), local("Microsoft Jhenghei"), local("Noto Sans CJK KR Light"), local("Source Han Sans KR Light");
   /* url(/font/GenYoGothicTW-Light-TTF.woff2), url(/font/GenYoGothicTW-Light-TTF.woff),  */
-  /* <link rel="preload" href="//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@latest/CL.woff2" as="font" type="font/woff2" crossorigin> */
+  /* <link rel="preload" href="//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@1.0.3/CL.woff2" as="font" type="font/woff2" crossorigin> */
   unicode-range: U+2015, U+2E3A, U+2500;
   font-display: swap;
 }
@@ -672,7 +672,7 @@ h-word {
   font-family: "Han Trad";
   font-variant-east-asian: traditional;
   font-language-overide: "CJK";
-  src: url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@latest/CL.woff2), url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@latest/CL.woff), url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@latest/CL.ttf), local("Hiragino Kaku Gothic ProN"), local("Hiragino Kaku Gothic Pro"), local("Hiragino Sans W2"), local("Yu Gothic"), local(Meiryo), local("MS Gothic"), local(MS PGothic), local("Lantinghei TC Extralight"), local("Microsoft Jhenghei"), local("Noto Sans CJK KR Light"), local("Source Han Sans KR Light");
+  src: url(/CL.woff2), url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@1.0.3/CL.woff), url(//cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@1.0.3/CL.ttf), local("Hiragino Kaku Gothic ProN"), local("Hiragino Kaku Gothic Pro"), local("Hiragino Sans W2"), local("Yu Gothic"), local(Meiryo), local("MS Gothic"), local(MS PGothic), local("Lantinghei TC Extralight"), local("Microsoft Jhenghei"), local("Noto Sans CJK KR Light"), local("Source Han Sans KR Light");
   font-display: swap;
 }
 @font-face {
