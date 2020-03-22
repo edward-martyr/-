@@ -652,6 +652,10 @@ h-word {
 }
 @font-face {
   font-family: "Calibri";
+  src: local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica), ;
+}
+@font-face {
+  font-family: "Calibri";
   font-variant-east-asian: traditional;
   font-variant-east-asian: full-width;
   -moz-font-feature-settings: "fwid";
@@ -663,10 +667,6 @@ h-word {
   /* <link rel="preload" href="CL-subset.woff2" as="font" type="font/woff2" crossorigin> */
   unicode-range: U+2015, U+2E3A, U+2500;
   font-display: swap;
-}
-@font-face {
-  font-family: "Calibri";
-  src: local("Calibri"), local(Lato), local("Helvetica Neue"), local(Helvetica), ;
 }
 @font-face {
   font-family: "Han Trad";
@@ -1430,7 +1430,7 @@ html:lang(ja).no-unicoderange,
 .no-unicoderange article strong:lang(ja) {
   font-family: "Calibri", sans-serif;
 }
-article blockquote i:lang(zh-Latn),
+/* article blockquote i:lang(zh-Latn),
 article blockquote var:lang(zh-Latn),
 article blockquote i:lang(ja-Latn),
 article blockquote var:lang(ja-Latn),
@@ -1587,7 +1587,7 @@ var:lang(ja) {
 .no-unicoderange i:lang(ja),
 .no-unicoderange var:lang(ja) {
   font-family: "Numeral LF Italic Serif", "Latin Italic Serif", Georgia, "Times New Roman", cursive, serif;
-}
+} */
 code:lang(zh-Latn),
 kbd:lang(zh-Latn),
 samp:lang(zh-Latn),
