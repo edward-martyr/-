@@ -1860,7 +1860,7 @@ p.poem-like,
     margin-left: 1em;
   }
 }
-article blockquote {
+/* article blockquote {
   margin-right: 0;
 }
 @media only screen and (max-width: 480px) {
@@ -1884,7 +1884,7 @@ article blockquote blockquote {
     margin-left: 1em;
     margin-right: 1em;
   }
-}
+} */
 h-hws,
 h-hws[hidden] {
   display: inline;
