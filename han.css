@@ -78,7 +78,24 @@ mark {
 small {
   font-size: 80%;
 }
-sub,
+sub { 
+  font-variant-position: sub;
+  -moz-font-feature-settings: "subs";
+  -webkit-font-feature-settings: "subs";
+  font-feature-settings: "subs";
+}
+sup { 
+  font-variant-position: super;
+  -moz-font-feature-settings: "sups";
+  -webkit-font-feature-settings: "sups";
+  font-feature-settings: "sups";
+}
+:matches(sub, sup) :matches(sub, sup) {  font-size: smaller; }
+/* Not using :matches() on the parent in the following 2 rules is intentional,
+   it would shift too much. */
+sub sub { vertical-align: sub; }
+sup sup { vertical-align: super; }
+/* sub,
 sup {
   font-size: 75%;
   line-height: 0;
@@ -90,7 +107,7 @@ sub {
 }
 sup {
   top: -.5em;
-}
+} */
 img {
   border-style: none;
 }
