@@ -83,12 +83,16 @@ sub {
   -moz-font-feature-settings: "subs";
   -webkit-font-feature-settings: "subs";
   font-feature-settings: "subs";
+  vertical-align: baseline;
+  font-size: inherit;
 }
 sup { 
   font-variant-position: super;
   -moz-font-feature-settings: "sups";
   -webkit-font-feature-settings: "sups";
   font-feature-settings: "sups";
+  vertical-align: baseline;
+  font-size: inherit;
 }
 :matches(sub, sup) :matches(sub, sup) {  font-size: smaller; }
 /* Not using :matches() on the parent in the following 2 rules is intentional,
