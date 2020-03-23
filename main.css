@@ -546,7 +546,7 @@ pre .javascript .function {
   position: absolute;
   width: 100%;
 }
-.blockquote-center::before {
+/* .blockquote-center::before {
   background-image: url("../images/quote-l.svg");
   background-position: 0 -6px;
   border-top: 1px solid #ccc;
@@ -557,7 +557,7 @@ pre .javascript .function {
   background-position: 100% 8px;
   border-bottom: 1px solid #ccc;
   bottom: -20px;
-}
+} */
 .blockquote-center p,
 .blockquote-center div {
   text-align: center;
