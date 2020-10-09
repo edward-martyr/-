@@ -1,6 +1,8 @@
 @font-face {
     font-family: "Fira Xdi8";
-    src: url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@384e37b/FiraXdi8-Book.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@1c50ba7/FiraXdi8-Regular.ttf);
 }
 
-p.xd {font-family:'Fira Xdi8';}
+div.xd {font-family:'Fira Xdi8';}
+
+textarea {white-space: pre-wrap;}
