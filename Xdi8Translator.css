@@ -168,7 +168,7 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
 .radiocontainer {
   display: block;
   position: relative;
-  padding-left: 35px;
+  padding-left: 1.5em;
   /* margin-bottom: 12px; */
   cursor: pointer;
   -webkit-user-select: none;
@@ -189,10 +189,10 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
 /* Create a custom radio button */
 .checkmark {
   position: absolute;
-  top: 5;
-  left: 5;
-  height: 15px;
-  width: 15px;
+  top: 0.25em;
+  left: 0.1em;
+  height: 1em;
+  width: 1em;
   background-color: #eee;
   border-radius: 50%;
 }
@@ -221,10 +221,10 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
 
 /* Style the indicator (dot/circle) */
 .radiocontainer .checkmark:after {
-  top: 5px;
-  left: 4.5px;
-  width: 5px;
-  height: 5px;
+  top: 0.3em;
+  left: 0.3em;
+  height: 0.4em;
+  width: 0.4em;
   border-radius: 50%;
   background: white;
 }
