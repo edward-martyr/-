@@ -30,7 +30,8 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
 
 .xdnum {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
 .count {
-  font-weight: 650;
+  font-weight: var(--text-weight);
+  font-variation-settings: "wght" var(--text-weight);
   text-transform: uppercase; 
   -moz-font-feature-settings: 'case'; 
   -webkit-font-feature-settings: 'case'; 
