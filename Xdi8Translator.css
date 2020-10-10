@@ -29,7 +29,7 @@ textarea:focus {
 textarea, input, button, select { font-family: inherit; font-size: inherit; }
 
 .radiocontainer input:checked ~ .checkmark ~.radiolabel {
-  color: #456bd9;
+  color: #304c9e;
 }
 
 .radiocontainer input:checked ~ .checkmark ~.radiolabel comment {
@@ -193,18 +193,18 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
   left: 0.1em;
   height: 1em;
   width: 1em;
-  background-color: #eee;
+  background-color: #e8f2f7;
   border-radius: 50%;
 }
 
 /* On mouse-over, add a grey background color */
 .radiocontainer:hover input ~ .checkmark {
-  background-color: #ccc;
+  background-color: #d2e5ee;
 }
 
 /* When the radio button is checked, add a blue background */
 .radiocontainer input:checked ~ .checkmark {
-  background-color: #2196F3;
+  background-color: #456bd9;
 }
 
 /* Create the indicator (the dot/circle - hidden when not checked) */
@@ -226,5 +226,5 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
   height: 0.4em;
   width: 0.4em;
   border-radius: 50%;
-  background: white;
+  background: #e8f2f7;
 }
