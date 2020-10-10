@@ -39,6 +39,7 @@ div.xd {font-family:'Fira Xdi8 Variable', 'Fira Xdi8', sans-serif;}
   
   .demo-text {
     font-family: "Fira Xdi8 Variable", "Fira Xdi8", sans-serif;
+    font-size: 120%;
     font-weight: var(--text-weight);
     font-variation-settings: "wght" var(--text-weight);
     margin: 0;
@@ -48,8 +49,8 @@ div.xd {font-family:'Fira Xdi8 Variable', 'Fira Xdi8', sans-serif;}
     margin-top: 3rem;
   }
   
-  .slider-container:not(:first-child) {
-    margin-top: 3rem;
+  .slider-container {
+    margin-top: -1rem;
   } 
   
   .slider-controls {
