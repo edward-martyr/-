@@ -1,5 +1,5 @@
 * {
-  font-family: sans-serif;
+  font-family: "FiraGO", "Fira Sans", "MI Lan Pro VF", sans-serif;
 }
 
 @font-face {
@@ -7,7 +7,7 @@
     src: url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@1c50ba7/FiraXdi8-Regular.ttf);
 }
 
-xd {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
+xd {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Fira Sans", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
 
 comment {
   color: darkgray; font-size: 80%; display: inline;
@@ -27,6 +27,15 @@ textarea:focus {
 }
 
 textarea, input, button, select { font-family: inherit; font-size: inherit; }
+
+.xdnum {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
+.count {
+  font-weight: 650;
+  text-transform: uppercase; 
+  -moz-font-feature-settings: 'case'; 
+  -webkit-font-feature-settings: 'case'; 
+  font-feature-settings: 'case' on; 
+}
 
 /* Load the variable font */
 @font-face {
@@ -84,10 +93,10 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
   }
   
   .slider-label {
-    font-size: 1.1rem;
+    font-size: 120%;
     font-style: normal;
     font-variation-settings: "slnt" var(--text-slant);
-    font-weight: 650;
+    font-weight: 400;
   }
   
   .output {
@@ -95,7 +104,7 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
     font-variation-settings: "slnt" var(--text-slant);
     font-weight: 400;
   }
-  
+
   .slider {
     -webkit-appearance: none;
     width: 100%;

@@ -2,10 +2,13 @@ const container = document.querySelector(".container");
 const sliders = document.querySelectorAll(".slider");
 const sliderValues = document.querySelectorAll(".output");
 const buttons = document.querySelectorAll(".button");
+const xn = document.getElementsByClassName('xdnum');
 
 // Display property values
 for (let i = 0; i < sliders.length; i++) {
-  sliderValues[i].innerHTML = sliders[i].value;
+  for (let i = 0; i < xn.length; i++) {
+    xn[i].textContent = '·'+sliders[i].value.replace(/0/g,'T').replace(/9/g,'q')+'·'
+  }
 }
 
 // Update text property and displayed property value for each slider
@@ -13,6 +16,9 @@ sliders.forEach(slider => {
     const sliderIndex = slider.getAttribute("data-index");
     const output = document.querySelector(`.output[data-index="${sliderIndex}"]`);
     slider.oninput = function() {
+      for (let i = 0; i < xn.length; i++) {
+        xn[i].textContent = '·'+this.value.replace(/0/g,'T').replace(/9/g,'q')+'·'
+      }
       container.style.setProperty(`--${this.id}`, this.value);
       output.innerHTML = this.value;
     };
@@ -27,7 +33,10 @@ buttons.forEach(button => {
   const resetSlider = document.querySelector(
     `.slider[data-index="${buttonIndex}"]`
   );
-  button.onclick = function() {
+  button.onclick = function () {
+    for (let i = 0; i < xn.length; i++) {
+      xn[i].textContent = '·'+resetSlider.defaultValue.replace(/0/g,'T').replace(/9/g,'q')+'·'
+    }
     container.style.removeProperty(`--${resetSlider.id}`);
     resetOutput.innerHTML = resetSlider.defaultValue;
     resetSlider.value = resetSlider.defaultValue;
