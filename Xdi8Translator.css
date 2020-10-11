@@ -28,12 +28,16 @@ textarea:focus {
 
 textarea, input, button, select { font-family: inherit; font-size: inherit; }
 
-.radiocontainer input:checked ~ .checkmark ~.radiolabel {
+.radiocontainer input:checked ~ .checkmark ~ .radiolabel {
   color: #304c9e;
 }
 
-.radiocontainer input:checked ~ .checkmark ~.radiolabel comment {
+.radiocontainer input:checked ~ .checkmark ~ .radiolabel comment {
   color:  rgb(119, 119, 119);
+}
+
+.radiocontainer:hover input ~ .checkmark ~ .radiolabel comment {
+  background-color: rgb(145, 145, 145);
 }
 
 .xdnum {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
