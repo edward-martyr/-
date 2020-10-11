@@ -7,9 +7,9 @@
     src: url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@b2323d8/FiraXdi8-Regular.woff2);
 }
 
-span.xd {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Fira Sans", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
+xd {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Fira Sans", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
 
-span.comment {
+comment {
   color: darkgray; font-size: 80%; display: inline;
 }
 
@@ -26,7 +26,7 @@ textarea:focus {
   box-shadow: 0 0 10px #b3cad6;
 }
 
-textarea, input, button, select { font-family: inherit; font-size: inherit; }
+textarea, button { font-family: inherit; font-size: 95%; }
 
 .radiocontainer input:checked ~ .checkmark ~ .radiolabel {
   color: #304c9e;
@@ -34,10 +34,6 @@ textarea, input, button, select { font-family: inherit; font-size: inherit; }
 
 .radiocontainer input:checked ~ .checkmark ~ .radiolabel comment {
   color:  rgb(119, 119, 119);
-}
-
-.radiocontainer:hover input ~ .checkmark ~ .radiolabel comment {
-  background-color: rgb(145, 145, 145);
 }
 
 .xdnum {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
