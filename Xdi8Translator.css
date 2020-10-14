@@ -4,7 +4,9 @@
 
 @font-face {
     font-family: "Fira Xdi8";
-    src: url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@bce6cb2/FiraXdi8-Regular.woff2);
+    src: url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@ef32285/FiraXdi8-Regular-subset.woff2) format('woff2'),
+    url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@ef32285/FiraXdi8-Regular-subset.woff2) format('woff'),
+    url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@ef32285/FiraXdi8-Regular.ttf) format('ttf');
 }
 
 xd {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Fira Sans", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
@@ -48,7 +50,7 @@ textarea, button { font-family: inherit; font-size: 95%; }
 /* Load the variable font */
 @font-face {
     font-family: 'Fira Xdi8 Variable';
-    src: url('https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@e47e0a8/Fira%20Xdi8%20Variable.woff2') format('woff2-variations');
+    src: url('https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@ef32285/Fira%20Xdi8%20Variable.woff2') format('woff2-variations');
     font-weight: 100 900;
   }
   
