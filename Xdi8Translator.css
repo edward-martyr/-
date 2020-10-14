@@ -5,7 +5,7 @@
 @font-face {
     font-family: "Fira Xdi8";
     src: url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@ef32285/FiraXdi8-Regular-subset.woff2) format('woff2'),
-    url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@ef32285/FiraXdi8-Regular-subset.woff2) format('woff'),
+    url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@ef32285/FiraXdi8-Regular-subset.woff) format('woff'),
     url(https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@ef32285/FiraXdi8-Regular.ttf) format('ttf');
 }
 
