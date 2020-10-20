@@ -38,6 +38,7 @@ textarea, button { font-family: inherit; font-size: 95%; }
   color:  rgb(119, 119, 119);
 }
 
+.xdnum {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
 .caps {
   font-weight: var(--text-weight);
   font-variation-settings: "wght" var(--text-weight);
