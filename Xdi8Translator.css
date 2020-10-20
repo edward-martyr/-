@@ -38,10 +38,13 @@ textarea, button { font-family: inherit; font-size: 95%; }
   color:  rgb(119, 119, 119);
 }
 
-.xdnum {font-family:"Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;}
-.caps {
+.xdnum {
+  font-family: "Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;
   font-weight: var(--text-weight);
   font-variation-settings: "wght" var(--text-weight);
+}
+caps {
+  font-family: "Fira Xdi8 Variable", "Fira Xdi8", "FiraGO", "Source Sans Variable", "MI Lan Pro VF", sans-serif;
   -moz-font-feature-settings: 'case'; 
   -webkit-font-feature-settings: 'case'; 
   font-feature-settings: 'case' on; 
